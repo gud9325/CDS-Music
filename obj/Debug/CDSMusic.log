@@ -1,0 +1,7 @@
+﻿  ofApp.cpp
+c:\openframeworks\of_v0.9.8_vs_release\libs\openframeworks\math\ofVec3f.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\openframeworks\of_v0.9.8_vs_release\libs\openframeworks\math\ofVec2f.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+  CDSMusic.vcxproj -> C:\openframeworks\of_v0.9.8_vs_release\apps\CDSMusic\bin\CDSMusic_debug.exe
+  CDSMusic.vcxproj -> bin\CDSMusic_debug.pdb (Full PDB)
+  
+  	                   9	C:\openframeworks\of_v0.9.8_vs_release\export\vs\Win32\
